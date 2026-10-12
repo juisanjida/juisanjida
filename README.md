@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Sanjida Tasmin Jui 👋
+### A passionate learner and tech enthusiast from Bangladesh!
 
-<!--
-**juisanjida/juisanjida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I enjoy exploring new technologies and building digital projects.
+- 🎓 Studying to grow my skills and create impactful solutions.
+- 🚀 Interested in web development, design, and interactive creations.
+- ✉️ You can reach me here on GitHub!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack & Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Tools:** GitHub, VS Code

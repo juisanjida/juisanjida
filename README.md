@@ -1,6 +1,5 @@
 # Hi, I'm Sanjida Tasmin Jui 👋
-## 🚀 [Click Here to Use My Live Scholarship Finder App!](https://replit.dev)
-
+## 🚀 [Click Here to Use My Live Scholarship Finder App!](https://replit.app)
 ### A passionate learner and tech enthusiast from Bangladesh!
 
 - 💻 I enjoy exploring new technologies and building digital projects.
